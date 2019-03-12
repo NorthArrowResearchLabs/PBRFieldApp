@@ -1,0 +1,81 @@
+[
+  {
+    "id": "9415f438-4a8d-4401-9833-5146a0208313",
+    "createdBy": "744be444-6b29-48e6-8bff-0691cc938f4f",
+    "created": "1523914119425",
+    "updated": "1541746489591",
+    "type": "ord",
+    "fields": {
+      "name": "Spanning One-Rock Dam #22",
+      "quantity": [
+        2,
+        1
+      ],
+      "orientation": "streamwise",
+      "position": "channelSpanning",
+      "obstruction": "roughness",
+      "stage": "baseFlow",
+      "notes": "Excepturi corrupti nihil et iste corrupti officia et et sed. Aut optio totam. Vitae numquam perspiciatis amet saepe et asperiores eius quia. Dicta iure explicabo repudiandae deserunt nihil ut illo velit.\n\nAut consequuntur qui aut qui numquam consequatur eligendi adipisci. Et ipsa ea. Et velit molestiae qui rem eius numquam pariatur consequatur.\n\nQuia reiciendis blanditiis delectus ut dolorum dolorem nihil libero eum. Cumque sunt corporis facere cupiditate eaque ut. Ut libero nobis."
+    },
+    "geoJSON": {
+      "type": "Feature",
+      "properties": {
+        "type": "multidot"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            -122.5698244402294,
+            49.2613245732337
+          ],
+          [
+            -122.56981670664385,
+            49.261286260387486
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": "881afa4d-62f6-47aa-be05-f9393a1540d8",
+    "createdBy": "87ffd59f-13bb-4e02-a332-988f3a24779f",
+    "created": "1544114688226",
+    "updated": "1538454571289",
+    "type": "ord",
+    "meta": {
+      "source": "9415f438-4a8d-4401-9833-5146a0208313"
+    },
+    "fields": {
+      "name": "Spanning One-Rock Dam #22",
+      "quantity": [
+        2,
+        1
+      ],
+      "orientation": "streamwise",
+      "position": "channelSpanning",
+      "obstruction": "roughness",
+      "stage": "baseFlow",
+      "notes": "Excepturi corrupti nihil et iste corrupti officia et et sed. Aut optio totam. Vitae numquam perspiciatis amet saepe et asperiores eius quia. Dicta iure explicabo repudiandae deserunt nihil ut illo velit.\n\nAut consequuntur qui aut qui numquam consequatur eligendi adipisci. Et ipsa ea. Et velit molestiae qui rem eius numquam pariatur consequatur.\n\nQuia reiciendis blanditiis delectus ut dolorum dolorem nihil libero eum. Cumque sunt corporis facere cupiditate eaque ut. Ut libero nobis."
+    },
+    "geoJSON": {
+      "type": "Feature",
+      "properties": {
+        "type": "multidot"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            -122.5698244402294,
+            49.2613245732337
+          ],
+          [
+            -122.56981670664385,
+            49.261286260387486
+          ]
+        ]
+      }
+    }
+  }
+]
