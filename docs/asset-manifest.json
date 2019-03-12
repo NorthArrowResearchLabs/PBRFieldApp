@@ -1,11 +1,11 @@
 {
-  "main.css": "/PBRFieldAppCosmos/static/css/main.0b4eb516.chunk.css",
-  "main.js": "/PBRFieldAppCosmos/static/js/main.8c5a752d.chunk.js",
-  "static/css/1.06313b53.chunk.css": "/PBRFieldAppCosmos/static/css/1.06313b53.chunk.css",
-  "static/js/1.7f0258d0.chunk.js": "/PBRFieldAppCosmos/static/js/1.7f0258d0.chunk.js",
-  "runtime~main.js": "/PBRFieldAppCosmos/static/js/runtime~main.405673b1.js",
-  "static/media/index.css": "/PBRFieldAppCosmos/static/media/roboto-latin-900italic.bc833e72.woff",
-  "index.html": "/PBRFieldAppCosmos/index.html",
-  "precache-manifest.3f5f5870175687c996321332afd2d88f.js": "/PBRFieldAppCosmos/precache-manifest.3f5f5870175687c996321332afd2d88f.js",
-  "service-worker.js": "/PBRFieldAppCosmos/service-worker.js"
+  "main.css": "/PBRFieldApp/static/css/main.0b4eb516.chunk.css",
+  "main.js": "/PBRFieldApp/static/js/main.1b92d59a.chunk.js",
+  "static/css/1.aad41b89.chunk.css": "/PBRFieldApp/static/css/1.aad41b89.chunk.css",
+  "static/js/1.1eb2443e.chunk.js": "/PBRFieldApp/static/js/1.1eb2443e.chunk.js",
+  "runtime~main.js": "/PBRFieldApp/static/js/runtime~main.a7a560dc.js",
+  "static/media/index.css": "/PBRFieldApp/static/media/roboto-latin-900italic.bc833e72.woff",
+  "index.html": "/PBRFieldApp/index.html",
+  "precache-manifest.6aa8ae2b9c9368ddc616dc547e2f9fb4.js": "/PBRFieldApp/precache-manifest.6aa8ae2b9c9368ddc616dc547e2f9fb4.js",
+  "service-worker.js": "/PBRFieldApp/service-worker.js"
 }

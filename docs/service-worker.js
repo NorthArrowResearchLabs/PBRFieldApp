@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/PBRFieldAppCosmos/precache-manifest.3f5f5870175687c996321332afd2d88f.js"
+  "/PBRFieldApp/precache-manifest.6aa8ae2b9c9368ddc616dc547e2f9fb4.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/PBRFieldAppCosmos/index.html", {
+workbox.routing.registerNavigationRoute("/PBRFieldApp/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
