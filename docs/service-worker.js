@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/PBRFieldApp/precache-manifest.9e2479be7fb7c1c74145bf3646c72d86.js"
+  "/PBRFieldApp/precache-manifest.587d8a5ea570d84f9e8f0309f9270496.js"
 );
 
 workbox.clientsClaim();
