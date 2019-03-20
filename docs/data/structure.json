@@ -1,81 +1,69 @@
 [
   {
-    "id": "9415f438-4a8d-4401-9833-5146a0208313",
-    "createdBy": "744be444-6b29-48e6-8bff-0691cc938f4f",
-    "created": "1523914119425",
-    "updated": "1541746489591",
-    "type": "ord",
+    "id": "58bd1b02-6082-42e1-83c8-505b416a08a6",
+    "createdBy": "ba73aa73-367c-4bca-9dad-4b5866420d3c",
+    "created": "1552253389743",
+    "updated": "1541310985154",
+    "type": "zb",
     "fields": {
-      "name": "Spanning One-Rock Dam #22",
+      "name": "Low Zuni Bowl",
       "quantity": [
-        2,
-        1
+        11,
+        2
       ],
       "orientation": "streamwise",
-      "position": "channelSpanning",
-      "obstruction": "roughness",
-      "stage": "baseFlow",
-      "notes": "Excepturi corrupti nihil et iste corrupti officia et et sed. Aut optio totam. Vitae numquam perspiciatis amet saepe et asperiores eius quia. Dicta iure explicabo repudiandae deserunt nihil ut illo velit.\n\nAut consequuntur qui aut qui numquam consequatur eligendi adipisci. Et ipsa ea. Et velit molestiae qui rem eius numquam pariatur consequatur.\n\nQuia reiciendis blanditiis delectus ut dolorum dolorem nihil libero eum. Cumque sunt corporis facere cupiditate eaque ut. Ut libero nobis."
+      "position": "sideChannel",
+      "obstruction": "deformable",
+      "stage": "typicalFlood",
+      "notes": "Fugiat in rerum eaque labore explicabo voluptatum voluptatem error. Aut asperiores ea id voluptatem veniam necessitatibus qui et. Doloribus distinctio dolorem. Cum inventore nam quo officiis et mollitia. Minima qui eos minima vitae neque perspiciatis consequatur recusandae."
     },
     "geoJSON": {
       "type": "Feature",
       "properties": {
-        "type": "multidot"
+        "type": "dot"
       },
       "geometry": {
-        "type": "MultiPoint",
+        "type": "Point",
         "coordinates": [
-          [
-            -122.5698244402294,
-            49.2613245732337
-          ],
-          [
-            -122.56981670664385,
-            49.261286260387486
-          ]
+          -122.57048554811618,
+          49.26123495709179
         ]
       }
     }
   },
   {
-    "id": "881afa4d-62f6-47aa-be05-f9393a1540d8",
-    "createdBy": "87ffd59f-13bb-4e02-a332-988f3a24779f",
-    "created": "1544114688226",
-    "updated": "1538454571289",
-    "type": "ord",
-    "meta": {
-      "source": "9415f438-4a8d-4401-9833-5146a0208313"
-    },
-    "fields": {
-      "name": "Spanning One-Rock Dam #22",
-      "quantity": [
-        2,
-        1
-      ],
-      "orientation": "streamwise",
-      "position": "channelSpanning",
-      "obstruction": "roughness",
-      "stage": "baseFlow",
-      "notes": "Excepturi corrupti nihil et iste corrupti officia et et sed. Aut optio totam. Vitae numquam perspiciatis amet saepe et asperiores eius quia. Dicta iure explicabo repudiandae deserunt nihil ut illo velit.\n\nAut consequuntur qui aut qui numquam consequatur eligendi adipisci. Et ipsa ea. Et velit molestiae qui rem eius numquam pariatur consequatur.\n\nQuia reiciendis blanditiis delectus ut dolorum dolorem nihil libero eum. Cumque sunt corporis facere cupiditate eaque ut. Ut libero nobis."
-    },
+    "id": "1157b75a-b1c5-47a9-9ae0-d8d2698b69d9",
+    "createdBy": "d3f71097-ac5a-4db9-b9a8-92319276cdf6",
+    "created": "1534293546223",
+    "updated": "1544291682322",
+    "type": "zb",
     "geoJSON": {
       "type": "Feature",
       "properties": {
-        "type": "multidot"
+        "type": "dot"
       },
       "geometry": {
-        "type": "MultiPoint",
+        "type": "Point",
         "coordinates": [
-          [
-            -122.5698244402294,
-            49.2613245732337
-          ],
-          [
-            -122.56981670664385,
-            49.261286260387486
-          ]
+          -122.57048554811618,
+          49.26123495709179
         ]
       }
+    },
+    "meta": {
+      "source": "58bd1b02-6082-42e1-83c8-505b416a08a6"
+    },
+    "fields": {
+      "name": "Low Zuni Bowl",
+      "quantity": [
+        11,
+        2
+      ],
+      "orientation": "streamwise",
+      "position": "sideChannel",
+      "obstruction": "deformable",
+      "stage": "typicalFlood",
+      "notes": "Fugiat in rerum eaque labore explicabo voluptatum voluptatem error. Aut asperiores ea id voluptatem veniam necessitatibus qui et. Doloribus distinctio dolorem. Cum inventore nam quo officiis et mollitia. Minima qui eos minima vitae neque perspiciatis consequatur recusandae."
     }
   }
 ]
