@@ -1,21 +1,21 @@
 [
   {
-    "id": "58bd1b02-6082-42e1-83c8-505b416a08a6",
-    "createdBy": "ba73aa73-367c-4bca-9dad-4b5866420d3c",
-    "created": "1552253389743",
-    "updated": "1541310985154",
-    "type": "zb",
+    "id": "9ea0bf92-433c-4541-917e-10059dd4710b",
+    "createdBy": "22d59cfe-dfd6-44dd-9957-c0e378ab1c95",
+    "created": "1547341594685",
+    "updated": "1537652187259",
+    "type": "pal",
     "fields": {
-      "name": "Low Zuni Bowl",
+      "name": "High PAL",
       "quantity": [
-        11,
-        2
+        14,
+        5
       ],
       "orientation": "streamwise",
-      "position": "sideChannel",
-      "obstruction": "deformable",
-      "stage": "typicalFlood",
-      "notes": "Fugiat in rerum eaque labore explicabo voluptatum voluptatem error. Aut asperiores ea id voluptatem veniam necessitatibus qui et. Doloribus distinctio dolorem. Cum inventore nam quo officiis et mollitia. Minima qui eos minima vitae neque perspiciatis consequatur recusandae."
+      "position": "rightBankAttached",
+      "obstruction": "sieve",
+      "stage": "rareFlood",
+      "notes": "Et ratione aut ex eum omnis minima quo excepturi at. Tempora voluptatem repudiandae qui quas dolor dolorum accusamus adipisci laudantium. Facere dolor ad et."
     },
     "geoJSON": {
       "type": "Feature",
@@ -25,18 +25,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.57048554811618,
-          49.26123495709179
+          -122.57056795218521,
+          49.26138982824509
         ]
       }
     }
   },
   {
-    "id": "1157b75a-b1c5-47a9-9ae0-d8d2698b69d9",
-    "createdBy": "d3f71097-ac5a-4db9-b9a8-92319276cdf6",
-    "created": "1534293546223",
-    "updated": "1544291682322",
-    "type": "zb",
+    "id": "bd356f0f-8e74-4647-bcc2-b03cf817fcc5",
+    "createdBy": "58c1a5b3-a56a-4c07-a1b2-14d4beb84af1",
+    "created": "1547492562746",
+    "updated": "1532801784857",
+    "type": "pal",
     "geoJSON": {
       "type": "Feature",
       "properties": {
@@ -45,25 +45,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.57048554811618,
-          49.26123495709179
+          -122.57056795218521,
+          49.26138982824509
         ]
       }
     },
     "meta": {
-      "source": "58bd1b02-6082-42e1-83c8-505b416a08a6"
+      "source": "9ea0bf92-433c-4541-917e-10059dd4710b"
     },
     "fields": {
-      "name": "Low Zuni Bowl",
+      "name": "High PAL",
       "quantity": [
-        11,
-        2
+        14,
+        5
       ],
       "orientation": "streamwise",
-      "position": "sideChannel",
-      "obstruction": "deformable",
-      "stage": "typicalFlood",
-      "notes": "Fugiat in rerum eaque labore explicabo voluptatum voluptatem error. Aut asperiores ea id voluptatem veniam necessitatibus qui et. Doloribus distinctio dolorem. Cum inventore nam quo officiis et mollitia. Minima qui eos minima vitae neque perspiciatis consequatur recusandae."
+      "position": "rightBankAttached",
+      "obstruction": "sieve",
+      "stage": "rareFlood",
+      "notes": "Et ratione aut ex eum omnis minima quo excepturi at. Tempora voluptatem repudiandae qui quas dolor dolorum accusamus adipisci laudantium. Facere dolor ad et."
     }
   }
 ]
